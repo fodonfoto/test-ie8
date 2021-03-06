@@ -26,5 +26,8 @@
   ],
   "devDependencies": {
     "stylelint": "^13.11.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0"
   }
 }
